@@ -1,0 +1,15 @@
+{
+	"compileOnSave": false,
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "esnext",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"sourceMap": true,
+		"outDir": "./out",
+		"resolveJsonModule": true,
+		"lib": [
+			"ESNext", "DOM"
+		]
+	}
+}

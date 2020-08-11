@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/jseto/guia-saas/issues"
   },
-  "homepage": "https://github.com/jseto/guia-saas#readme"
+  "homepage": "https://github.com/jseto/guia-saas#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.9",
+    "jest": "^26.3.0",
+    "ts-jest": "^26.2.0",
+    "typescript": "^3.9.7"
+  }
 }
