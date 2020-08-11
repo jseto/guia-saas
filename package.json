@@ -1,0 +1,28 @@
+{
+  "name": "guia-saas",
+  "version": "0.1.0",
+  "description": "Tutorial para crear un proyecto SaaS de 0 a 100",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jseto/guia-saas.git"
+  },
+  "keywords": [
+    "Typescript",
+    "TDD",
+    "testing",
+    "jest",
+    "firebase",
+    "React",
+    "SaaS"
+  ],
+  "author": "Josep Seto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jseto/guia-saas/issues"
+  },
+  "homepage": "https://github.com/jseto/guia-saas#readme"
+}
